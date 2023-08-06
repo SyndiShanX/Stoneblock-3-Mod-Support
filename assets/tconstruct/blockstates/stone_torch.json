@@ -1,0 +1,14 @@
+{
+	"variants": {
+		"facing=up": [
+			{ "model": "tconstruct:block/torch/stone_torch" },
+			{ "model": "tconstruct:block/torch/stone_torch", "y": 90 },
+			{ "model": "tconstruct:block/torch/stone_torch", "y": 180 },
+			{ "model": "tconstruct:block/torch/stone_torch", "y": 270 }
+		],
+		"facing=east": { "model": "tconstruct:block/torch/stone_torch_wall" },
+		"facing=south": { "model": "tconstruct:block/torch/stone_torch_wall", "y": 90 },
+		"facing=west": { "model": "tconstruct:block/torch/stone_torch_wall", "y": 180 },
+		"facing=north": { "model": "tconstruct:block/torch/stone_torch_wall", "y": 270 }
+	}
+}

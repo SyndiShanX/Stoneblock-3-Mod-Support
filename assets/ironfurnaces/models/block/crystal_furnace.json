@@ -1,0 +1,9 @@
+{
+	"parent": "block/orientable_with_bottom",
+	"textures": {
+		"top": "ironfurnaces:block/crystal_furnace_top",
+		"bottom": "ironfurnaces:block/crystal_furnace_bottom",
+		"front": "ironfurnaces:block/crystal_furnace_front",
+		"side": "ironfurnaces:block/crystal_furnace_side"
+	}
+}

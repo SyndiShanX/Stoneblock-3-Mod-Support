@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "tconstruct:block/storage/pig_iron",
+        "down":     "tconstruct:block/storage/pig_iron",
+        "up":       "tconstruct:block/storage/pig_iron",
+        "north":    "tconstruct:block/storage/pig_iron",
+        "east":     "tconstruct:block/storage/pig_iron",
+        "south":    "tconstruct:block/storage/pig_iron",
+        "west":     "tconstruct:block/storage/pig_iron"
+    }
+}

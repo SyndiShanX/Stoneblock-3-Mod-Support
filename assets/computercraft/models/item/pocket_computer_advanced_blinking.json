@@ -1,0 +1,37 @@
+{
+	"credit": "Made by SyndiShanX",
+	"parent": "computercraft:item/pocket_computer_base",
+	"textures": {
+		"layer0": "computercraft:item/pocket_computer_blink",
+		"main": "computercraft:item/pocket_computer_main",
+		"light": "computercraft:item/pocket_computer_light",
+		"back": "computercraft:item/pocket_computer_back"
+	},
+	"elements": [
+		{
+			"name": "main",
+			"from": [0, 0, 7.5],
+			"to": [16, 16, 7.8],
+			"faces": {
+				"north": {"uv": [0, 0, 8, 8], "texture": "#back"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#layer0"}
+			}
+		},
+		{
+			"name": "frame",
+			"from": [0, 0, 7.8001],
+			"to": [16, 16, 7.8011],
+			"faces": {
+				"south": {"uv": [0, 0, 8, 8], "texture": "#main"}
+			}
+		},
+		{
+			"name": "light",
+			"from": [0, 0, 7.8002],
+			"to": [16, 16, 7.8012],
+			"faces": {
+				"south": {"uv": [0, 0, 16, 16], "texture": "#light"}
+			}
+		}
+	]
+}
