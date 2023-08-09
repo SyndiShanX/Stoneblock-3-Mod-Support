@@ -1,0 +1,22 @@
+{
+  "trashcans.gui.item_trash_can.title": "§fItem Trash Can",
+  "trashcans.gui.item_trash_can.filter": "§fFilter",
+  "trashcans.gui.liquid_trash_can.title": "§fLiquid Trash Can",
+  "trashcans.gui.liquid_trash_can.filter": "§fFilter",
+  "trashcans.gui.energy_trash_can.title": "§fEnergy Trash Can",
+  "trashcans.gui.energy_trash_can.limit": "§fTransfer Limit",
+  "trashcans.gui.energy_trash_can.limit.change1": "§fSHIFT %s",
+  "trashcans.gui.energy_trash_can.limit.change2": "§fCTRL %s",
+  "trashcans.gui.energy_trash_can.limit.change3": "§fCTRL & SHIFT %s",
+  "trashcans.gui.energy_trash_can.check.on": "§fLimited",
+  "trashcans.gui.energy_trash_can.check.off": "§fUnlimited",
+  "trashcans.gui.energy_trash_can.value": "§fMax $number$ FE/t",
+  "trashcans.gui.ultimate_trash_can.title": "§fUltimate Trash Can",
+  "trashcans.gui.ultimate_trash_can.item_filter": "§fItem Filter",
+  "trashcans.gui.ultimate_trash_can.liquid_filter": "§fLiquid Filter",
+  "trashcans.gui.ultimate_trash_can.energy_limit": "§fEnergy Transfer Limit",
+  "trashcans.gui.whitelist.on": "§fWhitelist",
+  "trashcans.gui.whitelist.off": "§fBlacklist",
+  "trashcans.gui.arrow.left": "§fDecrease energy limit",
+  "trashcans.gui.arrow.right": "§fIncrease energy limit"
+}
