@@ -1,0 +1,8 @@
+{
+  "avaritia:container.extreme_crafting.title": "§fExtreme Crafting",
+  "avaritia:container.neutron_collector.title": "§fNeutron Collector",
+  "avaritia:container.neutronium_compressor.title": "§fNeutronium Compressor",
+  "avaritia:matter_cluster.counter": "§f%s / %s items",
+  "avaritia:matter_cluster.desc": "§fUse to deconstruct",
+  "avaritia:matter_cluster.desc2": "§fHold SHIFT for contents"
+}
