@@ -4,25 +4,19 @@
     "type": "CTM",
     "layer": "CUTOUT_MIPPED",
     "textures": [
-      "immersiveengineering:blocks/ctm/metal_decoration1_steel_scaffolding_top1_ctm"
+      "immersiveengineering:block/ctm/steel_scaffolding_grate_top_ctm"
     ],
     "extra": {
       "ignore_states": true,
       "connect_to": [
         {
-          "block": "immersiveengineering:metal_decoration1",
-          "predicate": {
-            "type": "steel_scaffolding_1"
-          }
+          "block": "immersiveengineering:steel_scaffolding_grate_top"
         },
         {
-          "block": "immersiveengineering:metal_decoration1_slab",
-          "predicate": {
-            "type": "steel_scaffolding_1"
-          }
+          "block": "immersiveengineering:slab_steel_scaffolding_grate_top"
         },
         {
-          "block": "immersiveengineering:steel_scaffolding_stairs1"
+          "block": "immersiveengineering:stairs_steel_scaffolding_grate_top"
         }
       ]
     }

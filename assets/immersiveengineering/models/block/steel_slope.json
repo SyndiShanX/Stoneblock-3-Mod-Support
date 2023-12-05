@@ -1,0 +1,10 @@
+{
+	"parent": "minecraft:block/block",
+	"textures": {
+		"particle": "immersiveengineering:block/metal_decoration/steel_scaffolding_noctm",
+		"texture": "immersiveengineering:block/metal_decoration/steel_scaffolding_noctm"
+	},
+	"loader": "immersiveengineering:ie_obj",
+	"model": "immersiveengineering:models/block/slope.obj.ie",
+	"callbacks": "immersiveengineering:structural_arm"
+}

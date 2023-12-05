@@ -1,4 +1,4 @@
-{ "parent": "minecraft:block/column_sides",
+{ "parent": "create:block/column_sides",
   "textures": {
     "0": "create:block/deepslate_ores/zinc/sides/2"
   }

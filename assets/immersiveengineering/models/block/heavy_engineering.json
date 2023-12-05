@@ -1,0 +1,37 @@
+{
+	"credit": "Made by SyndiShanX",
+	"parent": "minecraft:block/cube_all",
+	"textures": {
+		"all": "immersiveengineering:block/ctm/heavy_engineering",
+		"overlay": "immersiveengineering:block/ctm/dark_frame",
+		"particle": "immersiveengineering:block/metal_decoration/heavy_engineering"
+	},
+	"elements": [
+		{
+			"name": "block",
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#all"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#all"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#all"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#all"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#all"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#all"}
+			}
+		},
+		{
+			"name": "overlay",
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#overlay"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#overlay"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#overlay"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#overlay"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#overlay"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#overlay"}
+			}
+		}
+	]
+}

@@ -1,7 +1,7 @@
 {
-    "parent": "immersiveengineering:block/fence/ie_fence_post",
-    "textures": {
-        "particle": "immersiveengineering:blocks/storage_aluminum",
-        "0": "immersiveengineering:blocks/metal_decoration1_aluminum_fence"
-    }
+	"parent": "immersiveengineering:block/fence/ie_fence_post",
+	"textures": {
+		"particle": "immersiveengineering:block/metal_decoration/aluminum_fence",
+		"0": "immersiveengineering:block/metal_decoration/aluminum_fence"
+	}
 }
